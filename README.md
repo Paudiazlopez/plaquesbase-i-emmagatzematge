@@ -5,20 +5,20 @@ Projecte de grup sobre plaques base i sistemes d'emmagatzematge (Pau i Clemente)
 Es l’element principal del ordinador, on es conecten tots els elements que fa que l’ordenador funcioni: el processador, la memòria ram, el disc dur.
 On hi han diferents tipus de placa base, més gran, de mida mitjana, més petita... On es ajusti a la mida de la caixa o capsalera del nostre ordinador. 
 
-### Els noms dels diferents tipus de placas Base:
- ·ATX
- ·ATX, Micro-ATX (µATX).
- ·BTX
- ·BTX, Micro-BTX (µBTX), Pico-BTX (pBTX).
- ·WTX (ATX per a WorkStations).
- ·ITX
- ·Mini-ITX (mITX), Nano-ITX (nITX), Pico-ITX (pITX).
- ·DTX.
+### Els noms dels diferents tipus de placas Base
+·ATX
+·ATX, Micro-ATX (µATX).
+·BTX
+·BTX, Micro-BTX (µBTX), Pico-BTX (pBTX).
+·WTX (ATX per a WorkStations).
+·ITX
+·Mini-ITX (mITX), Nano-ITX (nITX), Pico-ITX (pITX).
+·DTX.
 ### Els elements o components que hi han en una Placa Base
 En la Placa Base hi han diferents components que es conecten directament en la placa base, on tenim: la CPU, la memoria ram,la pila per la Bios, el disc dur conectat amb un cable sata i de font d'energia que ve de la font d'alimentació, la gráfica i la font d'alimentació que encara que no es conecti a la placa doncs es la que li dona tota la energia per què funcioni la placa. I les ranures PCI per possar-hi una tarjeta de Wi-fi, tarjetes gráficas, de so, una tarjeta de capturadora de video, etc.
 
 
-## Factors de Forma
+### Factors de Forma
 Són uns estàndards que defineixen de forma molt bàsica les característiques (físiques) que ha de tenir la placa base. 
 L’objectiu és garantir que no hi haurà problemes de compatibilitat física entre les plaques dels diferents fabricants i al resta de components de l’ordinador. 
 
@@ -33,6 +33,6 @@ On el factor de forma determina lo següent:
 ·La posició i orientació dels elements que es connectaran a la placa. 
 
 ## Sistemes de Emmagatzematge
-Els sistemes de emmagatzematge són les que guarden i organitzen les dades principals del ordinador. Existeixen diferents tipus de emmagatzematge: Local, memoria ram, disc dur, ssd. Red, nas. Dispositius portatils, els usb, disc dur portátil. I emmagatzematge en la núvol. 
+Els sistemes de emmagatzematge són les que guarden i organitzen les dades principals del ordinador. Existeixen diferents tipus de emmagatzematge: Memoria ram, disc dur, ssd, Red, nas, les memories usb, disc dur portátil I emmagatzematge en la núvol. 
 
-Les principals sistemes de emmagatzematge en un ordinador son les de tipus local on tenim la memoria ram, el disc dur i la ssd. On organitza i es guarden totes les dades principals, arxius, etc, del nostre ordinador.
+Les principals sistemes de emmagatzematge en un ordinador son les de tipus local on tenim la memoria ram, el disc dur i la ssd. On organitza i es guarden totes les dades principals, arxius, etc, del nostre ordinador. On es conecten mitjançant un cable denominat SATA, i per donar-li corrent al disc dur doncs es conecta un cable mes petit que el de dades que es el de energia.
