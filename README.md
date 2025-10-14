@@ -42,5 +42,10 @@ On el factor de forma determina lo següent:
 ## Sistemes de Emmagatzematge
 Els sistemes de emmagatzematge són les que guarden i organitzen les dades principals del ordinador. Existeixen diferents tipus de emmagatzematge: Memoria ram, disc dur, ssd, Red, nas, les memories usb, disc dur portátil I emmagatzematge en la núvol. 
 
-Les principals sistemes de emmagatzematge en un ordinador son les de tipus local on tenim la memoria ram, el disc dur i la ssd. On organitza i es guarden totes les dades principals, arxius, etc, del nostre ordinador. On es conecten mitjançant un cable denominat SATA, i per donar-li corrent al disc dur doncs es conecta un cable mes petit que el de dades que es el de energia.
+Les principals sistemes de emmagatzematge en un ordinador son les de tipus local on tenim la memoria ram què és la més rápida i no es guarda l'informació quant apagues l'ordinador, el disc dur i la ssd. On s'organitza i es guarden totes les dades principals, arxius, etc, del nostre ordinador. On es conecten mitjançant un cable denominat SATA, i per donar-li corrent al disc dur doncs es conecta un cable mes petit que el de dades que es el de energia.
 
+## Fonts
+
+https://jpardo20.github.io/apunts-jpardo20/moduls/0221-muntatge-i-manteniment-d-equips/presentacions/presentador.html?src=slides%2F001-components-d-un-ordinador-digital-ra1.reveal&title=Components%20d%E2%80%99un%20ordinador%20digital
+
+https://jpardo20.github.io/apunts-jpardo20/moduls/0221-muntatge-i-manteniment-d-equips/presentacions/presentador.html?src=slides%2F002-factors-de-forma-ra1.reveal&title=Factors%20de%20Forma
