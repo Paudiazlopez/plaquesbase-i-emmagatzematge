@@ -6,14 +6,14 @@ Es l’element principal del ordinador, on es conecten tots els elements que fa 
 On hi han diferents tipus de placa base, més gran, de mida mitjana, més petita... On es ajusti a la mida de la caixa o capsalera del nostre ordinador. 
 
 ### Els noms dels diferents tipus de placas Base:
-·ATX
-·ATX, Micro-ATX (µATX).
-·BTX
-·BTX, Micro-BTX (µBTX), Pico-BTX (pBTX).
-·WTX (ATX per a WorkStations).
-·ITX
-·Mini-ITX (mITX), Nano-ITX (nITX), Pico-ITX (pITX).
-·DTX.
+ ·ATX
+ ·ATX, Micro-ATX (µATX).
+ ·BTX
+ ·BTX, Micro-BTX (µBTX), Pico-BTX (pBTX).
+ ·WTX (ATX per a WorkStations).
+ ·ITX
+ ·Mini-ITX (mITX), Nano-ITX (nITX), Pico-ITX (pITX).
+ ·DTX.
 ### Els elements o components que hi han en una Placa Base
 En la Placa Base hi han diferents components que es conecten directament en la placa base, on tenim: la CPU, la memoria ram,la pila per la Bios, el disc dur conectat amb un cable sata i de font d'energia que ve de la font d'alimentació, la gráfica i la font d'alimentació que encara que no es conecti a la placa doncs es la que li dona tota la energia per què funcioni la placa. I les ranures PCI per possar-hi una tarjeta de Wi-fi, tarjetes gráficas, de so, una tarjeta de capturadora de video, etc.
 
