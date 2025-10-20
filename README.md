@@ -46,12 +46,16 @@ Les principals sistemes de emmagatzematge en un ordinador son les de tipus local
 
 ## Fonts
 
-Apunts
+Apunts:
+
+
 https://jpardo20.github.io/apunts-jpardo20/moduls/0221-muntatge-i-manteniment-d-equips/presentacions/presentador.html?src=slides%2F001-components-d-un-ordinador-digital-ra1.reveal&title=Components%20d%E2%80%99un%20ordinador%20digital
 
 https://jpardo20.github.io/apunts-jpardo20/moduls/0221-muntatge-i-manteniment-d-equips/presentacions/presentador.html?src=slides%2F002-factors-de-forma-ra1.reveal&title=Factors%20de%20Forma
 
-Wikipedia
+Wikipedia:
+
+
 https://es.wikipedia.org/wiki/Placa_base
 
 https://es.wikipedia.org/wiki/Dispositivo_de_almacenamiento_de_datos
