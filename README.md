@@ -61,6 +61,12 @@ https://es.wikipedia.org/wiki/Placa_base
 https://es.wikipedia.org/wiki/Dispositivo_de_almacenamiento_de_datos
 
 
+## Video
+
+https://www.youtube.com/watch?v=0zkX6nlpiSk
+
+(almacenamiento, memoria ram y placa base)
+
 ## Presentació Canva
 
 https://www.canva.com/design/DAG1qLiFB3I/5z8yJAigXAN0Z8Xbp2jf7Q/edit?utm_content=DAG1qLiFB3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
