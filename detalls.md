@@ -8,8 +8,8 @@ Us vaig demanar:
    * el repositori sigui **`privat`** i
    * que convideu a **`jpardo20`**. 
 
-- [] Nom repositori (**`plaquesbase-i-emmagatzematge`**)
-- [] **`privat`**
+- [ ] Nom repositori (**`plaquesbase-i-emmagatzematge`**)
+- [ ] **`privat`**
 - [x] **`jpardo20`** convidat
 
 **2.** Caldrà fer una presentació a la resta de la classe
